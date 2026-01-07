@@ -1,0 +1,12 @@
+# .gitignore
+data/
+__pycache__/
+*.pt
+*.pth
+.ipynb_checkpoints/
+pre-model/
+epoch_logs.csv
+*.pdf
+*.png
+*.jpg
+results/
